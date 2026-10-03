@@ -14,9 +14,9 @@ Every expense app I tried wanted the same thing from me: a category picked from 
 
 So the target was one gesture. Open it, type what happened, done. Everything else in the product exists to make that line of text enough.
 
-![The Today screen: a ring showing 34,113 rupees spent of a 45,000 rupee ceiling, with checkpoint ticks, and safe pace against actual pace underneath](https://anurag.studio/projects/kharchaaaa/01-today.webp)
+![The Today screen / Three lines typed into the composer](images/phones-1.jpg)
 
-![Three lines typed into the composer, each resolved to a category before being committed: uber to Transport, zepto to Quick commerce, swiggy to Food delivery](https://anurag.studio/projects/kharchaaaa/05-composer.webp)
+Left: The Today screen: a ring showing 34,113 rupees spent of a 45,000 rupee ceiling, with checkpoint ticks, and safe pace against actual pace underneath. Right: Three lines typed into the composer, each resolved to a category before being committed: uber to Transport, zepto to Quick commerce, swiggy to Food delivery.
 
 ## The Line of Text Does a Lot
 
@@ -58,9 +58,9 @@ It costs something real, and the cost is not hidden in the product either: a boo
 
 The passkey is described the same way. It does not prove who you are to anything, it re-opens a session this device already has, which is Face ID instead of retyping. Verifying WebAuthn properly means a server holding public keys and checking signatures, which is more than this app has earned, so the copy says exactly what the button does rather than borrowing the word credential.
 
-![The Log, grouped by day, one row per spend with its category and the time it was recorded](https://anurag.studio/projects/kharchaaaa/02-log.webp)
+![The Log / The Shape screen breaking the month down by category](images/phones-2.jpg)
 
-![The Shape screen breaking the month down by category, rent taking 53 per cent of it](https://anurag.studio/projects/kharchaaaa/03-shape.webp)
+Left: The Log, grouped by day, one row per spend with its category and the time it was recorded. Right: The Shape screen breaking the month down by category, rent taking 53 per cent of it.
 
 ## It Reports, It Does Not Cheer
 
@@ -82,9 +82,9 @@ What is not done is worth saying plainly. The bot is written and tested but not 
 
 The figures in these screenshots are invented. They are one plausible month for one person, not anybody’s actual spending, which is the only kind of screenshot a product like this should ever be shown with.
 
-![A checkpoint firing full screen: 60 per cent of September gone, with what is left and the daily rate that would keep it](https://anurag.studio/projects/kharchaaaa/06-checkpoint.webp)
+![A checkpoint firing full screen / Setup](images/phones-3.jpg)
 
-![Setup, showing the ceiling for the active group, a second group for a trip, and the checkpoint count](https://anurag.studio/projects/kharchaaaa/04-setup.webp)
+Left: A checkpoint firing full screen: 60 per cent of September gone, with what is left and the daily rate that would keep it. Right: Setup, showing the ceiling for the active group, a second group for a trip, and the checkpoint count.
 
 *Setup, showing the ceiling for the active group, a second group for a trip, and the checkpoint count*
 
